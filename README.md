@@ -6,7 +6,7 @@ I'm a Chilean applied economist interested in public policy 🇨🇱. I use empi
 <b>Contact Information</b> <br>
 <i> [Email](mailto:mreyesl@fen.uchile.cl) </i> <br>
 
-### You cand find about my research [research](https://mreyeslabbe.github.io/research/) and [teaching](https://mreyeslabbe.github.io/teaching/) activities.
+### You cand find about my [research](https://mreyeslabbe.github.io/research/) and [teaching](https://mreyeslabbe.github.io/teaching/) activities.
 
 ### Download my CV <a href="/docs/assets/CV_MRL.pdf" target="_blank">here.</a>
 
