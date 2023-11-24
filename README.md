@@ -1,13 +1,12 @@
 
-# <center> Welcome! 👋 </center>
+# <center> Welcome! </center>
 
-I'm a Chilean economist and data scientist 👩‍💻🇨🇱. I'm interested in social development, education, social protection, labor inclusion, gender studies, data science, and technology. I love working on studying and contributing to public policymaking in Latin American countries.  I'm currently working as a Consultant at the [Social Development Division of the United Nations Economic Commission for Latin America and the Caribbean](https://dds.cepal.org/) <br>
-<br>
+I'm a Chilean applied economist interested in public policy 👩‍💻🇨🇱. I use empirical methods and real data for research, consulting and teaching activities within the field of economics. I fancy diverse topics in development economics, labor economics and urban economics. I am particularly interested in understanding the causes and consequences of informality in housing, labor and financial markets. I currently work as Senior Research Associate at [JPAL - LAC](https://www.povertyactionlab.org/latin-america-caribbean) and as Adjunct Professor at [DII - UChile](https://www.dii.uchile.cl/english/) <br>
 
 
 <b>Contact Information</b> <br>
-<i> [Email](mailto:ijacasf@gmail.com) </i> <br>
+<i> [Email](mailto:mreyesl@fen.uchile.cl) </i> <br>
 
-### Go to my [CV](https://isajacas.github.io/cv/)
+### Go to my [CV](https://mreyeslabbe.github.io/cv/)
 
-<center> <img src="/docs/assets/profile_pic.png" width="300"/> </center>
+<center> <img src="/docs/assets/profile_pic.jpeg" width="300"/> </center>
