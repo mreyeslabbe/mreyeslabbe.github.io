@@ -1,7 +1,7 @@
 
 # <center> Welcome! </center>
 
-I'm a Chilean applied economist interested in public policy 👩‍💻🇨🇱. I use empirical methods and real data for research, consulting and teaching activities within the field of economics. I fancy diverse topics in development economics, labor economics and urban economics. I am particularly interested in understanding the causes and consequences of informality in housing, labor and financial markets. I currently work as Senior Research Associate at [JPAL - LAC](https://www.povertyactionlab.org/latin-america-caribbean) and as Adjunct Professor at [DII - UChile](https://www.dii.uchile.cl/english/) <br>
+I'm a Chilean applied economist interested in public policy 🇨🇱. I use empirical methods and real data for research, consulting and teaching activities within the field of economics. I fancy diverse topics in development economics, labor economics and urban economics. I am particularly interested in understanding the causes and consequences of informality in housing, labor and financial markets. I currently work as Senior Research Associate at [JPAL - LAC](https://www.povertyactionlab.org/latin-america-caribbean) and as Adjunct Professor at [DII - UChile](https://www.dii.uchile.cl/english/). <br>
 
 
 <b>Contact Information</b> <br>
