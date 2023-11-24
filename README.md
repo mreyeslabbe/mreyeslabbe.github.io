@@ -7,6 +7,6 @@ I'm a Chilean applied economist interested in public policy 🇨🇱. I use empi
 <b>Contact Information</b> <br>
 <i> [Email](mailto:mreyesl@fen.uchile.cl) </i> <br>
 
-### Go to my [CV](<object data="/docs/assets/CV - MRL.pdf" width="1000" height="1000" type='application/pdf'></object>)
+### Go to my [CV](<object data="/docs/assets/CV_MRL.pdf" width="1000" height="1000" type='application/pdf'></object>)
 
 <center> <img src="/docs/assets/profile_pic.jpeg" width="300"/> </center>
