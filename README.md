@@ -18,5 +18,3 @@ in Economics at Universidad de Chile, and MA in Economics at BSE - Universitat P
 
 <center> <img src="/docs/assets/profile_pic.jpeg" width="250"/> </center>
 
-    economics, and urban economics. I am particularly interested in understanding the causes and consequences of informality
-    in housing, labor, and financial markets. I currently work as a Senior Research Associate at
