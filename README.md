@@ -1,4 +1,11 @@
-
+<head>
+    <style>
+        body {
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
 # <center> Welcome! </center>
 I'm a Chilean applied economist interested in public policy 🇨🇱.<br>
 
@@ -16,6 +23,7 @@ in Economics at Universidad de Chile, and MA in Economics at BSE - Universitat P
 ### You can find about my [research](https://mreyeslabbe.github.io/research/) and [teaching](https://mreyeslabbe.github.io/teaching/) activities.
 
 ### Download my CV <a href="/docs/assets/CV_MRL.pdf" target="_blank">here.</a>
+</body>
 
 <center> <img src="/docs/assets/profile_pic.jpeg" width="250"/> </center>
 
