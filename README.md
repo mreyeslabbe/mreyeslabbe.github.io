@@ -18,46 +18,5 @@ in Economics at Universidad de Chile, and MA in Economics at BSE - Universitat P
 
 <center> <img src="/docs/assets/profile_pic.jpeg" width="250"/> </center>
 
-<!DOCTYPE html>
-<html>
-
-<head>
-    <style>
-        body {
-            text-align: justify;
-        }
-    </style>
-</head>
-
-<body>
-
-<center>
-    <h1>Welcome!</h1>
-</center>
-
-<p>
-    I'm a Chilean applied economist interested in public policy 🇨🇱. I fancy diverse topics in development economics, labor
     economics, and urban economics. I am particularly interested in understanding the causes and consequences of informality
     in housing, labor, and financial markets. I currently work as a Senior Research Associate at
-    <a href="https://www.povertyactionlab.org/latin-america-caribbean">JPAL - LAC</a> and as an Instructor Professor at
-    <a href="https://www.dii.uchile.cl/english/">DII - UChile</a>. Previously, I completed a BA in Economics at the
-    Universidad de Chile, and an MA in Economics at BSE - Universitat Pompeu Fabra.
-</p>
-
-<b>Contact Information</b>
-<br>
-<i><a href="mailto:mreyesl@fen.uchile.cl">Email</a></i>
-<br>
-
-<h3>You can find about my <a href="https://mreyeslabbe.github.io/research/">research</a> and <a
-        href="https://mreyeslabbe.github.io/teaching/">teaching</a> activities.</h3>
-
-<h3>Download my CV <a href="/docs/assets/CV_MRL.pdf" target="_blank">here.</a></h3>
-
-<center>
-    <img src="/docs/assets/profile_pic.jpeg" width="250" />
-</center>
-
-</body>
-
-</html>
