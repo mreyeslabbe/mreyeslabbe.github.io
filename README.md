@@ -5,8 +5,8 @@ I fancy diverse topics in development economics, labor economics and urban econo
 I am particularly interested in understanding the causes and consequences of informality in housing, labor 
 and financial markets. I currently work as Senior Research 
 Associate at [JPAL - LAC](https://www.povertyactionlab.org/latin-america-caribbean) and as 
-Instructor Professor at [DII - UChile](https://www.dii.uchile.cl/english/). Previously, I completed a BA 
-in Economics at Universidad de Chile, and MA in Economics at BSE - Universitat Pompeu Fabra.<br> 
+Instructor Professor at [DII - UChile](https://www.dii.uchile.cl/english/). I am also a Research Affiliate at [MIGRA Millenium Nucleus](https://nucleomigra.org/en/).
+Previously, I completed a BA in Economics at Universidad de Chile, and MA in Economics at BSE - Universitat Pompeu Fabra.<br> 
 
 
 <b>Contact Information</b> <br>
