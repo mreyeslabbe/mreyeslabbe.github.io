@@ -1,12 +1,14 @@
 # <center> Welcome! </center>
 I'm a Chilean applied economist interested in public policy 🇨🇱.<br>
 
+<p align="justify">
 I fancy diverse topics in development economics, labor economics and urban economics. 
 I am particularly interested in understanding the causes and consequences of informality in housing, labor 
 and financial markets. I currently work as Senior Research 
-Associate at [JPAL - LAC](https://www.povertyactionlab.org/latin-america-caribbean) and as 
+Associate at <a href="https://www.povertyactionlab.org/latin-america-caribbean">JPAL - LAC</a> [JPAL - LAC](https://www.povertyactionlab.org/latin-america-caribbean) and as 
 Instructor Professor at [DII - UChile](https://www.dii.uchile.cl/english/). I am also a Research Affiliate at [MIGRA Millenium Nucleus](https://nucleomigra.org/en/).
-Previously, I completed a BA in Economics at Universidad de Chile, and MA in Economics at BSE - Universitat Pompeu Fabra.<br> 
+Previously, I completed a BA in Economics at Universidad de Chile, and MA in Economics at BSE - Universitat Pompeu Fabra.<br> </p>
+
 
 
 <b>Contact Information</b> <br>
