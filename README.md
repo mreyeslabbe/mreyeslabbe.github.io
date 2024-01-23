@@ -18,8 +18,6 @@ Previously, I completed a BA in Economics at Universidad de Chile, and MA in Eco
 
 ### You can find about my [research](https://mreyeslabbe.github.io/research/) and [teaching](https://mreyeslabbe.github.io/teaching/) activities.
 
-### I also maintain a list of some [miscellaneous public goods](https://mreyeslabbe.github.io/resources/) for applied research in economics.
-
 ### Download my CV <a href="/docs/assets/CV_MRL.pdf" target="_blank">here.</a>
 
 <center> <img src="/docs/assets/profile_pic.jpeg" width="250"/> </center>
