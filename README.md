@@ -13,7 +13,7 @@ Previously, I completed a BA in Economics at Universidad de Chile, and MA in Eco
 
 
 
-< p align="justify> <b> Great news! I'll be starting my PhD in Public Policy at NYU in Fall 2024! </b> <br> </p>
+< p align="justify"> <b> Great news! I'll be starting my PhD in Public Policy at NYU in Fall 2024! </b> <br> </p>
 
 
 
