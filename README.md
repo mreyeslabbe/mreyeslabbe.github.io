@@ -13,12 +13,16 @@ Previously, I completed a BA in Economics at Universidad de Chile, and MA in Eco
 
 
 
-<b>Contact Information</b> <br>
-<i> [Email](mailto:mreyesl@fen.uchile.cl) </i> <br>
+< p align="justify> <b> Great news! I'll be starting my PhD in Public Policy at NYU in Fall 2024! </b>
+
+
 
 ### You can find about my [research](https://mreyeslabbe.github.io/research/) and [teaching](https://mreyeslabbe.github.io/teaching/) activities.
 
 ### Download my CV <a href="/docs/assets/CV_MRL.pdf" target="_blank">here.</a>
+
+<b>Contact Information</b> <br>
+<i> [Email](mailto:mreyesl@fen.uchile.cl) </i> <br>
 
 <center> <img src="/docs/assets/profile_pic.jpeg" width="250"/> </center>
 
